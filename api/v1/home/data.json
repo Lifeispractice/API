@@ -1,11 +1,9 @@
 {
       "code": 200,
       "message": "Success",
-      "data": [{
-            "page": 1,
-            "tabId": 1001,
-            "tabName": "流行",
-            "pop": [{
+      "data": [
+            {"pop": [
+            {
                   "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mbw39i&acm=3.mce.1_1_1mbw39i.9750.44188-27059.cE47zs1uwNALZ.sd_115-swt_69-imt_7-c_2_11_478876169_0_8_0-lc_201-fcid_20003463-mid_9750-pit_30-c1_3_675114407_10000001-dit_169&cparam=MTU5MTc3MzgzNl8xMWtfMzE1YTllYzllYTM1MTM1NGExYWMwODQ1OWU3MWZhOTRfMTFfN180Nzg4NzYxNjlfNGRfMF84XzBfNzE5XzFfMA==",
                   "image": "https://s5.mogucdn.com/mlcdn/c45406/200516_2ca4ah05ldj0f0f2c43dlehld18c6_750x1000.jpg",
                   "title": "【第2件半价】完美日记哑光唇釉7系列雾面染唇液唇蜜唇彩",
@@ -65,12 +63,8 @@
                   "title": "夏装女装2020新款韩版宽松不规则收腰短袖T恤女网红上衣服潮",
                   "price": 29.9,
                   "collection": 7928
-            }]
-      }, {
-            "page": 1,
-            "tabId": 1002,
-            "tabName": "精选",
-            "new": [{
+            }]},
+            {"new": [{
                   "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1mkrm9i&acm=3.mce.1_1_1mkrm9i.9750.44188-27059.cE47zs1uWzM47.sd_115-swt_69-imt_7-c_2_11_556699730_0_24_0-lc_201-fcid_20003463-mid_9750-pit_30-c1_3_682568351_10000001-dit_149&cparam=MTU5MTc3OTk3OV8xMWtfN2M2YzAyZDY3MjgwNjZiZjRlY2ZlYzFkNDI0MThkZmJfMTFfN181NTY2OTk3MzBfNGRfMF8yNF8wXzQxMF8xXzA=",
                   "image": "https://s5.mogucdn.com/mlcdn/c45406/190906_59i021a4864jlg0731c462f516l3e_640x960.jpg",
                   "title": "儿童装男童春秋套装2020新款中大童男孩休闲运动两件套童装潮",
@@ -130,12 +124,8 @@
                   "title": "套装女夏季2020新款韩版洋气上衣牛仔短裤俏皮时尚休闲两件套",
                   "price": 128.0,
                   "collection": 6826
-            }]
-      }, {
-            "page": 1,
-            "tabId": 1003,
-            "tabName": "新款",
-            "sell": [{
+            }]},
+            {"sell": [{
                   "link": "https://h5.mogu.com/detail-normal/index.html?itemId=1lqnihu&acm=3.mce.1_1_1lqnihu.9750.44188-27059.uQATbs1uXsozb.sd_115-swt_69-imt_7-c_2_11_425174973_0_40_0-lc_201-fcid_20003463-mid_9750-pit_30-c1_3_657278357_10000001-dit_149&cparam=MTU5MTc4MDE4OV8xMWtfMTQ0YWRmNGYzNzQzNWFmYmRmNDAyNDcxYmMyYTYxMWJfMTFfN180MjUxNzQ5NzNfNGRfMF80MF8wXzg5MF8xXzA=",
                   "image": "https://s5.mogucdn.com/mlcdn/c45406/180122_34447515be969k225dc8dbe217fe5_640x960.jpg",
                   "title": "【50片】国妆特证祛斑婴儿蚕丝面膜女锁水保湿细致毛孔面膜贴",
@@ -195,6 +185,6 @@
                   "title": "蕾丝长袖T恤女春季2020宽松韩版学生中长款假两件上衣打底衫",
                   "price": 49.9,
                   "collection": 257
-            }]
-      }]
+            }]}
+      ]
 }
